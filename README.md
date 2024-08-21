@@ -45,6 +45,8 @@
 - Monitor project spend and margins to pivot plans as needed.
 
 
+
+
 ## Financial & Project Dashboard Development
 - **Objective**: Monitor project spend, resource allocation, and budget goal attainment.
 - Configured QuickBooks ODBC integration and used Power Query in Power BI.
