@@ -42,7 +42,7 @@
 ### Recommendations
 - Assign low-expense staff to low-billed tasks and high-expense staff to high-billed tasks.
 - Adjust contracts to better estimate task hours.
-- Monitor project spend and margins to pivot plans as needed.
+- Monitor project spend and margins to pivot plans as needed. <br>
 
 
 
